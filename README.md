@@ -12,7 +12,7 @@ I'm always learning, building, and looking for new opportunities to grow 🚀
 
 Let's connect 🤝
 
-LinkedIn[site name] (https://www.linkedin.com/in/lalitha-sri-santhapur-738bb4418/)
+LinkedIn[site name](https://www.linkedin.com/in/lalitha-sri-santhapur-738bb4418/)
 
 <!--
 **LalithaSriSanthapur/LalithaSriSanthapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
