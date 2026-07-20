@@ -6,7 +6,7 @@ I'm a Software Engineering student at Delhi Technological University (DTU) and a
 
 🚀 Built projects and participated in hackathons
 
-🌱 Learning Java and strengthening my skills in C, C++, HTML, Git & GitHub
+🌱 Learning Java and strengthening my skills in C, C++, HTML, Python , Pandas , Git & GitHub
 
 🎯 Interested in building impactful and innovative tech
 
